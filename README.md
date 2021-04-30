@@ -42,3 +42,10 @@ I fixed the subtitles and adjusted the timings of the clips from that thread and
     * Move the original files from the _backup_ folder to the _StreamingAssets_ folder
 
 # [Check out the forsen pack also :)](https://github.com/g7eternal/wtd-forsen-pack)
+
+## How to contribute
+If you want add a clip to the pack you can:
+
+* Send me a clip directly and I'll edit it and add the subtitles :)
+    * you can contact me on [twitch](https://twitch.tv/badoge), [reddit](https://old.reddit.com/message/compose/?to=EpicSketches) or [discord]( https://discord.gg/AEH2wrF8Vc)
+* Make a pull request with properly formatted clip and subtitles
