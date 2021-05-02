@@ -4,7 +4,7 @@ This is a pack of clips taken from [this thread](https://www.reddit.com/r/Reddit
 I fixed the subtitles and adjusted the timings of the clips from that thread and compiled them in this repo :)
 
 ## How to install
-1. [Download and unpack the files](https://github.com/badoge/wtd-nymn-pack/releases/download/v1/wtd-nymn-pack-main.zip) (~570MB)
+1. [Download and unpack the files](https://github.com/badoge/wtd-nymn-pack/releases/download/v2/wtd-nymn-pack-main.zip) (~596MB)
 
 2. In your Steam library select the *What the Dub?!* game, right-click -> Manage -> Browse local files
 
