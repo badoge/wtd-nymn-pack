@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,800
+steve: ok, give me your password
+
+2
+00:00:02,500 --> 00:00:03,200
+richard: my password?
+
+3
+00:00:04,000 --> 00:00:05,000
+steve: OUT WITH IT!
+
+4
+00:00:05,700 --> 00:00:07,300
+richard: [male_dub]
+
+5
+00:00:08,200 --> 00:00:10,000
+steve: yeah, that fits
+
